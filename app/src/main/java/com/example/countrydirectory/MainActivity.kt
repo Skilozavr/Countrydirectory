@@ -9,6 +9,7 @@ import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {
     // hello git
+    // My first git project
     lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
